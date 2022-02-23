@@ -32,5 +32,6 @@ curl -sSfL https://raw.githubusercontent.com/h4ux/ctree/main/install.sh | sh -s
 
 ### Help
 
+![image](https://user-images.githubusercontent.com/77572830/155360421-122ead60-cafa-4b68-8286-7dfeab92da6c.png)
 
 ** Currently supports Mac OS and Linux OS
